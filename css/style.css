@@ -31,33 +31,287 @@ h3 {
 }
 
 /* Ukraine */
+#ukraine div {
+  height: 100px;
+  width: 400px;
+}
 
+#box1 {
+  background-color: blue;
+  height: 100px;
+  width: 400px;
+}
+
+#box2{
+  background-color: yellow;
+  height: 100px;
+  width: 400px;
+}
 /* Germany */
 
+#germany div{
+  height:100px;
+  width: 400px;
+}
+
+#box3 {
+  background-color: black;
+  height: 100px;
+  width: 400px;
+}
+
+#box4{
+  background-color: red;
+  height: 100px;
+  width: 400px;
+}
+
+#box5{
+  background-color: yellow;
+  height: 100px;
+  width: 400px;
+}
 /* Lithuania */
 
+#lithuania div{
+  height:100px;
+  width: 400px;
+}
+
+#box6 {
+  background-color: yellow;
+  height: 100px;
+  width: 400px;
+}
+
+#box7{
+  background-color: green;
+  height: 100px;
+  width: 400px;
+}
+
+#box8{
+  background-color: red;
+  height: 100px;
+  width: 400px;
+}
+
 /* Yemen */
 
-/* The Gambia */
+#box9{
+  background-color: black;
+  margin-bottom: 100px;
+  height: 100px;
+  width: 400px;
 
-/* Yemen */
+}
 
+#box10{
+  background-color: red;
+  height: 100px;
+  width: 400px;
+}
 /* The Gambia */
+#gambia1{
+  background-color: red;
+  margin-bottom: 10px;
+  height: 100px;
+  width: 400px;
+}
+
+#gambia2{
+  background-color: blue;
+  margin-bottom: 10px;
+  height: 50px;
+  width: 400px;
+}
+
+#gambia3{
+  background-color: green;
+  height: 100px;
+  width: 400px;
+}
 
 /* Chad */
+#chad1{
+  background-color: blue;
+  height: 300px;
+  width: 150px;
+  margin-bottom: -300px
+}
 
+#chad2{
+  background-color: yellow;
+  margin-left: 150px;
+  height: 300px;
+  width: 150px;
+  margin-bottom: -300px
+}
+
+#chad3{
+  background-color: red;
+  margin-left: 300px;
+  height: 300px;
+  width: 150px;
+}
 /* France */
+#france1{
+  background-color: blue;
+  height: 300px;
+  width: 150px;
+  margin-bottom: -300px
+}
+
+#france2{
+  background-color: red;
+  margin-left: 300px;
+  height: 300px;
+  width: 150px;
+}
 
 /* Benin */
+#benin1{
+  background-color: green;
+  height: 300px;
+  width: 150px;
+  margin-bottom: -300px
+}
+
+#benin2{
+  background-color: yellow;
+  margin-left: 150px;
+  height: 150px;
+  width: 300px;
+}
+#benin3{
+  background-color: red;
+  margin-left: 150px;
+  height: 150px;
+  width: 300px;
+}
 
 /* UAE */
+#uae1{
+  background-color: red;
+  height: 300px;
+  width: 150px;
+  margin-bottom: -300px
+}
+#uae2{
+  background-color: green;
+  margin-left: 150px;
+  height: 100px;
+  width: 300px;
+}
+#uae3{
+  background-color: white;
+  margin-left: 150px;
+  height: 100px;
+  width: 300px;
+}
+#uae4{
+  background-color: black;
+  margin-left: 150px;
+  height: 100px;
+  width: 300px;
+}
 
 /* Denmark */
+#denmark1{
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  margin-bottom: 25px
+}
+#denmark2{
+  background-color: red;
+  height: 100px;
+  width: 100px;
+}
 
+#denmark3{
+  background-color: red;
+  margin-left: 125px;
+  margin-top:-225px;
+  height: 100px;
+  width: 200px;
+}
+#denmark4{
+  background-color: red;
+  margin-left: 125px;
+  margin-top: 25px;
+  height: 100px;
+  width: 200px;
+}
 /* Norway */ 
+#norway1{
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  margin-bottom: 50px
+}
+#norway2{
+  background-color: red;
+  height: 100px;
+  width: 100px;
+}
 
+#norway3{
+  background-color: red;
+  margin-left: 150px;
+  margin-top:-250px;
+  height: 100px;
+  width: 200px;
+}
+#norway4{
+  background-color: red;
+  margin-left: 150px;
+  margin-top: 50px;
+  height: 100px;
+  width: 200px;
+}
+#norway5{
+  background-color: blue;
+  margin-top: -133.5px;
+  height: 20px;
+  width: 350px;
+}
+
+#norway6{
+  background-color: blue;
+  margin-left: 117px;
+  margin-top: -137px;
+  height: 250px;
+  width: 20px;
+}
 /* Greece */
 
+#greece1{
+  background-color: blue;
+  height: 50px;
+  width: 50px;
+  margin-bottom: 50px
+}
+#greece2{
+  background-color: blue;
+  height: 50px;
+  width: 50px;
+}
+
+#greece3{
+  background-color: blue;
+  margin-left: 100px;
+  margin-top:-150px;
+  height: 50px;
+  width: 50px;
+}
+#greece4{
+  background-color: blue;
+  margin-left: 100px;
+  margin-top: 50px;
+  height: 50px;
+  width: 50px;
+}
 
 
 
